@@ -149,3 +149,29 @@ nav ul a{
 }
 
 /* Skill section end */
+
+/* Resume section start */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.experience-description, .experience-sub-title{
+    color: #757575;
+}
+
+.resume hr{
+    margin: 30px 0px;
+    opacity: 50%;
+}
+.cv{
+    margin-top: 50px;
+}
+
+
+/* Resume section end */
+
