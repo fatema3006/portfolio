@@ -175,3 +175,61 @@ nav ul a{
 
 /* Resume section end */
 
+/* footer start */
+
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+
+footer input[type="text"]{
+    height: 64px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: #ffffff;
+    display: block;
+    width: 100%;
+    padding: 18px 30px;
+    margin-bottom: 24px;
+    border: none;
+}
+footer input[type="email"]{
+    height: 64px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: #ffffff;
+    display: block;
+    width: 100%;
+    padding: 18px 30px;
+    margin-bottom: 24px;
+    border: none;
+}
+
+footer textarea{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: #ffffff;
+    display: block;
+    padding: 18px 30px;
+    margin-bottom: 24px;
+    border: none;
+    height: 250px;
+}
+.para{
+    color: #757575;
+    padding-bottom: 50px;
+}
+
